@@ -21,6 +21,8 @@ Trained on Stability.ai's  [Stable Diffusion 2.0 Base](https://huggingface.co/st
 **If you enjoy my work and want to test new models before release, please consider supporting me**
 [![Become A Patreon](https://badgen.net/badge/become/a%20patron/F96854)](https://patreon.com/user?u=79196446)
 
+**Disclaimer: The SD 2.0 model is just over 24h old at this point and we still need to figure out how it works exactly. Please view this as an early prototype and experiment with the model.**
+
 **Characters rendered with the model:**
 ![Characters Samples](https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-samples01s.png)
 **Cars and Animals rendered with the model:**
