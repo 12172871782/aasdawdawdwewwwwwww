@@ -18,23 +18,23 @@ Use the tokens
  in your prompts for the effect.
 Trained on Stability.ai's  [Stable Diffusion 2.0 Base](https://huggingface.co/stabilityai/stable-diffusion-2-base) with 512x512 resolution.
 
-**If you enjoy my work or want to test new models before release, please consider supporting me**
+**If you enjoy my work and want to test new models before release, please consider supporting me**
 [![Become A Patreon](https://badgen.net/badge/become/a%20patron/F96854)](https://patreon.com/user?u=79196446)
 
 **Characters rendered with the model:**
-![Characters Samples]()
+![Characters Samples](https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-samples01s.png)
 **Cars and Animals rendered with the model:**
-![Misc. Samples]()
+![Misc. Samples](https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-samples02s.png)
 **Landscapes rendered with the model:**
-![Landscape 1]()
+![Landscape 1](https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-samples03s.png)
 
-#### Prompt and settings for the :
-**future style**
-_Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 3123, Size: 512x512_
+#### Prompt and settings for the Characters:
+**future style [subject] Negative Prompt: duplicate heads bad anatomy**   
+ _Steps: 20, Sampler: Euler a, CFG scale: 7, Size: 512x704_
 
-#### Prompt and settings for the :
-**future style**
-_Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 123, Size: 512x512_
+#### Prompt and settings for the Landscapes:
+**future style city market street level at night Negative Prompt: blurry fog soft**   
+ _Steps: 20, Sampler: Euler a, CFG scale: 7, Size: 1024x576_
 
 This model was trained using the diffusers based dreambooth training by ShivamShrirao using prior-preservation loss and the _train-text-encoder_ flag in 7.000 steps.
 
