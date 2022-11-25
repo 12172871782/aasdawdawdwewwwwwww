@@ -6,7 +6,7 @@ tags:
 - stable-diffusion
 - text-to-image
 - diffusers
-thumbnail: "https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-thumbnail.jpg"
+thumbnail: "https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/images/future-diffusion-thumbnail-2.jpg"
 inference: false
 ---
 
