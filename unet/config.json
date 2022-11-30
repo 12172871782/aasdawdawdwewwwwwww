@@ -1,7 +1,7 @@
 {
   "_class_name": "UNet2DConditionModel",
   "_diffusers_version": "0.9.0.dev0",
-  "_name_or_path": "D:\\Projects\\Dreambooth-Diffusers\\models\\stable-diffusion-2-0",
+  "_name_or_path": "stabilityai/stable-diffusion-2-base",
   "act_fn": "silu",
   "attention_head_dim": [
     5,
@@ -35,7 +35,7 @@
   "num_class_embeds": null,
   "only_cross_attention": false,
   "out_channels": 4,
-  "sample_size": 96,
+  "sample_size": 64,
   "up_block_types": [
     "UpBlock2D",
     "CrossAttnUpBlock2D",
